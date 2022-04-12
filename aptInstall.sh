@@ -18,6 +18,7 @@ apt install git -y
 apt install grub-customizer -y
 apt install npm -y
 apt install nmap -y
+apt install piper -y
 
 apt autoremove -y
 apt autoclean -y
