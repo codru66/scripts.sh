@@ -14,7 +14,6 @@ apt install preload -y
 apt install bleachbit -y
 apt install pulseaudio -y
 apt install wget -y
-apt install terminator -y
 apt install git -y
 apt install grub-customizer -y
 apt install npm -y
