@@ -19,6 +19,7 @@ apt install grub-customizer -y
 apt install npm -y
 apt install nmap -y
 apt install piper -y
+apt install chrome-gnome-shell -y
 
 apt autoremove -y
 apt autoclean -y
