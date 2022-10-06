@@ -15,7 +15,7 @@ apt install git -y
 apt install npm -y
 apt install nmap -y
 apt install piper -y
-apt install net-tools
+apt install net-tools -y
 apt install vlc -y
 apt install gimp -y
 apt install cmatrix -y
