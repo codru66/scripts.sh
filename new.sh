@@ -22,18 +22,15 @@ apt install cmatrix -y
 apt install snapd -y
 apt install curl -y
 apt install libnetfilter-queue1 libappindicator3-1 -y
+apt  install docker.io -y
 
 apt autoremove -y
 apt autoclean -y
 apt update -y
 
 #Snap
-snap install spotify -y
-snap install docker -y
 
 #installer
-wget https://updates.safing.io/latest/linux_amd64/packages/portmaster-installer.deb -y
-dpkg -i portmaster-installer.deb -y
 
 #Run docker
 sudo addgroup --system docker
