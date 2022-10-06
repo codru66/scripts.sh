@@ -1,3 +1,7 @@
+#CHMOD
+#chmod u+x
+#RUN
+#./script.sh
 apt autoclean -y
 apt update -y 
 
