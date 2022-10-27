@@ -22,7 +22,8 @@ apt install cmatrix -y
 apt install snapd -y
 apt install curl -y
 apt install libnetfilter-queue1 libappindicator3-1 -y
-apt  install docker.io -y
+apt install docker.io -y
+apt install tasksel -y
 
 apt autoremove -y
 apt autoclean -y
